@@ -1,0 +1,62 @@
+.landingPage {
+  background-color: #dbcbd8;
+  background-image: linear-gradient(316deg, #dbcbd8 0%, #2e4057 74%);
+}
+
+html,
+body {
+  margin: 0;
+  position: relative;
+}
+/* 
+div {
+  width: 100%;
+} */
+
+.navStyle {
+  background-color: #485461;
+  background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+  transition: top 0.3s;
+}
+
+.navbar-brand {
+  color: #eab464 !important;
+}
+
+.nav-link {
+  color: #eab464 !important;
+}
+
+.about {
+  background-color: #485461;
+  background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+}
+
+.whatDoIDo {
+  background-color: #485461;
+  background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+}
+
+.progress-bar {
+  background-color: #2f4353;
+  background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+}
+
+li::before {
+  content: " ►  ";
+  color: #eab464;
+}
+
+li {
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent: -1.5em;
+  padding-left: 1.5em;
+  padding-bottom: 0.5em;
+}
+
+.btn-primary {
+  color: #ffffff !important;
+  background-color: #eab464 !important;
+  border-color: #eab464;
+}
