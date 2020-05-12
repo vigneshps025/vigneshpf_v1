@@ -35,7 +35,7 @@ class MainSite extends Component {
                         <nav className="navbar navbar-expand-lg navbar-light navStyle fixed-top">
                             <div className="container">
                                 <a className="navbar-brand" href="#">
-                                    <p className="lead">Vignesh.in</p>
+                                    <p className="lead">Vignesh</p>
                                 </a>
                                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
@@ -69,9 +69,8 @@ class MainSite extends Component {
                                     <p className="display-4 text-sm-left mt-3 text-center">About</p>
                                 </div>
                                 <div className="col-sm-8 p-md-5">
-                                    <p>I am Vignesh software engineer based in India. Shortly after graduting in Software Engineering from VIT University in 2015, I joined Conizant, India a Software Developer.
-                                Since then, I have been working on some interesting technologies and projects in my day to day life.</p>
-                                    <p className="font-weight-light font-italic">I strongly believes a good product, indeed is the outcome of the quality of the code.</p>
+                                    <p>I am Vignesh software engineer based in India. Shortly after graduating in Software Engineering from VIT University in 2015, I joined Cognizant, India a Software Developer. Since then, I have been working on some interesting technologies and projects in my day to day life.</p>
+                                    <p className="font-weight-light font-italic">I strongly believe a good product indeed is the outcome of the quality of the code.</p>
                                 </div>
                             </div>
 
@@ -89,8 +88,8 @@ class MainSite extends Component {
                                         <div className="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
                                             <ul className="list-inline">
                                                 <li className="list-inline-item">Developed and maintained ASP .NET and MS T-SQL database applications</li>
-                                                <li className="list-inline-item">Have troubleshot client database and application issues and applied necessary fix</li>
-                                                <li className="list-inline-item">Worked closely with management team to administer development tasks by implementing and maintaining the best practices in SDLC</li>
+                                                <li className="list-inline-item">Have troubleshot client database and application issues and applied necessary the fix</li>
+                                                <li className="list-inline-item">Worked closely with the management team to administer development tasks by implementing and maintaining the best practices in SDLC</li>
                                             </ul>
                                         </div>
                                         <div className="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
@@ -98,7 +97,7 @@ class MainSite extends Component {
                                                 <li className="list-inline-item">Actively involved in scoping the requirement and translated UX and UI mockups into a responsive and scalable user interface</li>
                                                 <li className="list-inline-item">Have experiencing writing both stateful and stateless responsive React.js component with both custom CSS and frontend frameworks</li>
                                                 <li className="list-inline-item">Used JIRA as the bug tracking system to track and maintain the history of bugs/issues</li>
-                                                <li className="list-inline-item">Contributed to the knowledge base by creating and updating application development documentations</li>
+                                                <li className="list-inline-item">Contributed to the knowledge base by creating and updating application development documentation</li>
                                             </ul>
                                         </div>
                                     </div>
