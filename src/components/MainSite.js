@@ -69,7 +69,7 @@ class MainSite extends Component {
                                     <p className="display-4 text-sm-left mt-3 text-center">About</p>
                                 </div>
                                 <div className="col-sm-8 p-md-5">
-                                    <p>I am Vignesh software engineer based in India. Shortly after graduating in Software Engineering from VIT University in 2015, I joined Cognizant, India a Software Developer. Since then, I have been working on some interesting technologies and projects in my day to day life.</p>
+                                    <p>I am Vignesh software engineer based in India. Shortly after graduating in Software Engineering from VIT University in 2015, I joined Cognizant as a Software Developer. Since then, I have been working on some interesting technologies and projects in my day to day life.</p>
                                     <p className="font-weight-light font-italic">I strongly believe a good product indeed is the outcome of the quality of the code.</p>
                                 </div>
                             </div>
